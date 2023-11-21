@@ -1,0 +1,8 @@
+{
+  "price": 1000,
+  "name": "fvjyj",
+  "upc": "12345676",
+  "description": "Good Product",
+  "model": "fdsff4",
+  "type": "Hard Good"
+}
